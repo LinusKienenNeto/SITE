@@ -1,0 +1,64 @@
+body {
+    background-color: bisque;
+    font-style: inherit;
+    margin: 0cm;
+}
+
+ul {
+    list-style: none;
+    float: inline;
+    padding: 0;
+    margin: 0;
+    background-color: #333;
+    overflow: hidden;
+
+
+}
+
+a {
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+li {
+    border-right: 1px solid #ddd;
+}
+
+a:hover {
+    transition: .5s;
+    background-color: #111;
+}
+
+.roda {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    margin: 0px;
+    background-color: #333;
+}
+
+#final {
+    color: aliceblue;
+}
+
+.container {
+    width: 200px;
+    margin: 5em auto;
+    padding: 2em;
+    background-color: #fdfdff;
+    border-radius: 0.5em;
+    box-shadow: 2px 3px 7px 2px rgba(0, 0, 0, 0.02);
+
+    
+}
+
+.envio{
+    border-radius: 00.5em;
+    
+}
+
