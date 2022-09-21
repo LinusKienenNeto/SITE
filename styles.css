@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     margin: 0cm;
 }
 
@@ -21,7 +21,7 @@ a {
     text-decoration: none;
     color: aliceblue;
     font-size: large;
-    
+
 
 }
 
@@ -30,11 +30,11 @@ li {
 }
 
 a:hover {
-    transition: .5s;
+    transition: 5s;
     background-color: #111;
 }
 
-.Sobre{
+.Sobre {
     float: right;
 }
 
@@ -45,7 +45,7 @@ a:hover {
     text-align: center;
     margin: 0px;
     background-color: #333;
-    
+
 }
 
 #final {
@@ -60,15 +60,15 @@ a:hover {
     border-radius: 0.5em;
     box-shadow: 2px 3px 7px 2px rgba(0, 0, 0, 0.02);
 
-    
+
 }
 
-.envio{
+.envio {
     border-radius: 00.5em;
-    
+
 }
 
-#primeiro_p{
+#primeiro_p {
 
     width: 800px;
     background-color: #ddd;
@@ -76,12 +76,16 @@ a:hover {
     border-radius: 0.5em;
     margin: 45px;
     align-items: center;
-    
+
 
 
 }
 
-#primeiro_p:hover{
+#primeiro_p:hover {
     color: #111;
 }
 
+.divison{
+    border: 10px solid gray; 
+    border-radius: 5px;
+}
