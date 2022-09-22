@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     margin: 0cm;
 }
 
@@ -16,12 +16,14 @@ ul {
 }
 
 a {
-    float: left;
-    padding: 14px 16px;
+    float: left ;
+    padding: 18px 25px;
     text-decoration: none;
     color: aliceblue;
     font-size: large;
-    
+    margin-left: 35px;
+    border-radius: opx;
+
 
 }
 
@@ -32,9 +34,11 @@ li {
 a:hover {
     transition: .5s;
     background-color: #111;
+    margin-bottom: 10ps;
+    border-radius: 0ps;
 }
 
-.Sobre{
+.Sobre {
     float: right;
 }
 
@@ -45,7 +49,7 @@ a:hover {
     text-align: center;
     margin: 0px;
     background-color: #333;
-    
+
 }
 
 #final {
@@ -60,28 +64,44 @@ a:hover {
     border-radius: 0.5em;
     box-shadow: 2px 3px 7px 2px rgba(0, 0, 0, 0.02);
 
-    
+
 }
 
-.envio{
+.envio {
     border-radius: 00.5em;
-    
+
 }
 
-#primeiro_p{
+#primeiro_p {
 
-    width: 800px;
-    background-color: #ddd;
-    padding: 2em;
-    border-radius: 0.5em;
-    margin: 45px;
+    width: 880px;
+    background-color: rgb(254, 249, 249);
+    padding: 0.5em;
+    ;
+    margin-left: 20px;
+    margin-top: 105px;
+    text-align: center;
+    margin: auto;
+
+}
+
+
+#font-p{
+    text-align: center;
+}
+
+.line_show{
+    border: 5px solid green;
+    border-radius: 5px;
+}
+
+#CONTAINER{
+
+    width: 900px;
+    margin: 0 auto;
+    justify-content: center;
     align-items: center;
+    background-color:#ddd;
     
-
-
+    
 }
-
-#primeiro_p:hover{
-    color: #111;
-}
-
