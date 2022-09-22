@@ -21,8 +21,11 @@ a {
     text-decoration: none;
     color: aliceblue;
     font-size: large;
+<<<<<<< HEAD
     margin-left: 35px;
     border-radius: opx;
+=======
+>>>>>>> 753fd9ef51c49e13a1aa2e0e2517abe3afc946cc
 
 
 }
@@ -32,7 +35,7 @@ li {
 }
 
 a:hover {
-    transition: .5s;
+    transition: 5s;
     background-color: #111;
     margin-bottom: 10ps;
     border-radius: 0ps;
@@ -101,7 +104,23 @@ a:hover {
     margin: 0 auto;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     background-color:#ddd;
     
     
 }
+=======
+
+
+
+}
+
+#primeiro_p:hover {
+    color: #111;
+}
+
+.divison{
+    border: 10px solid gray; 
+    border-radius: 5px;
+}
+>>>>>>> 753fd9ef51c49e13a1aa2e0e2517abe3afc946cc
