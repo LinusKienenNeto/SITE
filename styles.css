@@ -74,11 +74,11 @@ a:hover {
     width: 880px;
     background-color: rgb(254, 249, 249);
     padding: 0.5em;
-    ;
-    margin-left: 20px;
-    margin-top: 105px;
-    text-align: center;
-    margin: auto;
+    margin-left: 75px;
+    margin-top: 55px;
+    
+    
+   
 
 }
 
@@ -89,27 +89,6 @@ a:hover {
 
 .line_show{
     border: 5px solid green;
-    border-radius: 5px;
-}
-
-#CONTAINER{
-
-    width: 900px;
-    margin: 0 auto;
-    justify-content: center;
-    align-items: center;
-
-
-
-
-}
-
-#primeiro_p:hover {
-    color: #111;
-}
-
-.divison{
-    border: 10px solid gray; 
     border-radius: 5px;
 }
 
