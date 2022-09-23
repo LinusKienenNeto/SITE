@@ -29,10 +29,13 @@ li {
 }
 
 a:hover {
-    transition: 5s;
+    transition: 0.5s;
     background-color: #111;
     margin-bottom: 10ps;
     border-radius: 0ps;
+    color: red;
+    
+
 }
 
 .Sobre {
@@ -73,10 +76,12 @@ a:hover {
 
     width: 880px;
     background-color: rgb(254, 249, 249);
-    padding: 0.5em;
+    padding: 0.5em 0.5em;
     margin-left: 75px;
     margin-top: 55px;
-    
+    border-radius: 10px;
+    box-shadow: #111;
+
     
    
 
@@ -91,4 +96,6 @@ a:hover {
     border: 5px solid green;
     border-radius: 5px;
 }
+
+
 
